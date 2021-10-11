@@ -1,0 +1,1 @@
+It didn't work because it was only connected to one wire so it only traveled down one instead of the three that was required.![IMG_20211011_111959](https://user-images.githubusercontent.com/88846494/136830510-fb925308-4f30-484f-8327-b0a9a2ce158a.jpg)
